@@ -1,6 +1,5 @@
 # NAME: DEEPIKA G
 # REG.NO: 212224040060
-
 # LAB-1-ATM
 # ATM and Banking SYSTEM
 ## AIM: 
@@ -30,5 +29,6 @@ to withdraw money,deposit.
 
 # COMMUNICATION DIAGRAM:
 <img width="910" height="770" alt="Screenshot 2025-08-17 175344" src="https://github.com/user-attachments/assets/8c89708a-e803-493d-9c3d-a03614815f38" />
+
 ## RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.
