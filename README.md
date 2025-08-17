@@ -24,10 +24,8 @@ to withdraw money,deposit.
 
 # STATECHART DIAGRAM:
 <img width="1231" height="862" alt="Screenshot 2025-08-17 181732" src="https://github.com/user-attachments/assets/43dcd464-ae5e-4cd6-b880-e757514b6838" />
-
 # SEQUENCE DIAGRAM:
 <img width="904" height="765" alt="Screenshot 2025-08-17 175326" src="https://github.com/user-attachments/assets/a8a33b4b-6175-4936-9d02-0f3492329230" />
-
 # COMMUNICATION DIAGRAM:
 <img width="910" height="770" alt="Screenshot 2025-08-17 175344" src="https://github.com/user-attachments/assets/8c89708a-e803-493d-9c3d-a03614815f38" />
 
